@@ -146,10 +146,6 @@ footer {
 
 
 @media (min-width:1260px){
-    body {
-        justify-content: space-around;
-
-    }
 
     .apresentation-box {
         margin-top: 5vh;
